@@ -11,7 +11,7 @@ public class ProyectFuturo {
         System.out.println(veredicto(args[1], args[2]));
         
     }
-    static String veredicto(String a, String b) {
+    public static String veredicto(String a, String b) {
         
         
         if (a.equals(b)) {
