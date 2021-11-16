@@ -1,4 +1,4 @@
-
+//Proyecto de Suar Palazón Losa
 package proyectfuturo;
 
 public class ProyectFuturo {
